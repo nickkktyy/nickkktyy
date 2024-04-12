@@ -1,4 +1,4 @@
-|      履歷        |<img src="https://www.nintendo.tw/character/kirby/assets/img/home/kirby-forgotten-land-hero.jpg
+|      履歷        |<img src="[https://www.nintendo.tw/character/kirby/assets/img/home/kirby-forgotten-land-hero.jpg](https://github.com/nickkktyy/nickkktyy/blob/main/kirby-forgotten-land-hero.jpg?raw=true)
 | ---------------- |:-----------------------------:|
 | 姓名             | 譚永揚                |
 | 學校             | 高雄科技大學                  |
