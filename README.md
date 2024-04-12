@@ -17,3 +17,20 @@
  - emgage in ambiguity
 
  - 
+<details><summary>學歷 </summary><blockquote>
+
+<details><summary> 高雄科技大學 </summary><blockquote>
+
+<details><summary> 高雄科技大學四年級 </summary><blockquote>
+
+~~~
+n
+i
+c
+k
+k
+~~~
+</blockquote></details>
+</blockquote></details>
+</blockquote></details>
+
