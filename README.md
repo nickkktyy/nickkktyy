@@ -6,7 +6,7 @@
 | 選修             | 智慧城市導論                  |
 
 
-![這是一張圖片.]http://s05.calm9.com/qrcode/2024-04/J3HL7F55B9.png
+![這是一張圖片.][http://s05.calm9.com/qrcode/2024-04/J3HL7F55B9.png](https://github.com/nickkktyy/nickkktyy/blob/main/J3HL7F55B9%20(1).png?raw=true)
 
 # 一功來ㄟ
 ## 一功來ㄟ
