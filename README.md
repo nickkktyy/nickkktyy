@@ -4,4 +4,4 @@
 | 學校             | 高雄科技大學                  |
 | 電子郵件         | c108252231@nkust.edu.tw         |
 | 選修             | 智慧城市導論                  |
-![這是一張圖片.]()
+![這是一張圖片.](https://github.com/nickkktyy/nickkktyy/tree/main)
