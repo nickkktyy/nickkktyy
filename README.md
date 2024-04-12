@@ -34,3 +34,4 @@ k
 </blockquote></details>
 </blockquote></details>
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/LKdJPTTCs_8/0.jpg)](https://www.youtube.com/watch?v=LKdJPTTCs_8 "YOUR_VIDEO_TITLE")
