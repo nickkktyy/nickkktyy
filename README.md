@@ -7,3 +7,13 @@
 
 
 ![這是一張圖片.](https://raw.githubusercontent.com/nickkktyy/nickkktyy/7953edd1c13fabb456372f754e715f6c3bb71fed/%E4%B8%8B%E8%BC%89.png)
+
+# 一功來ㄟ
+## 一功來ㄟ
+###  一功來ㄟ
+
+我的興趣
+- nexflit&chill
+ - emgage in ambiguity
+
+ - 
